@@ -31,6 +31,15 @@ export const Footer = () => {
 				>
 					Github
 				</a>
+				<a
+					style={{ textDecoration: 'none' }}
+					className="px-3"
+					href="https://www.linkedin.com/in/karthik-s-raju/"
+					target="_blank"
+					rel="noreferrer"
+				>
+					LinkedIn
+				</a>
 			</div>
 		</div>
 	);
